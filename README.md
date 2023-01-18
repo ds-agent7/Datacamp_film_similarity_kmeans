@@ -1,5 +1,5 @@
-# Datacamp_film_similarity_kmeans
-kmeans, dendrograms, data analize, TfidfVectorizer, tokenizing 
+# Datacamp: film similarity nlp kmeans
+kmeans, dendrograms, data analize, TfidfVectorizer, tokenizing, nlp
 
 We all love watching movies! There are some movies we like, some we don't. Most people have a preference for movies of a similar genre. Some of us love watching action movies, while some of us like watching horror. Some of us like watching movies that have ninjas in them, while some of us like watching superheroes.
 Movies within a genre often share common base parameters. Consider the following two movies:
